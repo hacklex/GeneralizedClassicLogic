@@ -1,0 +1,8 @@
+.git/*
+*.fst~
+*.fsti~
+*.fst#
+fsharp/
+obj/
+.ionide/
+*.checked
